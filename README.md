@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liujunxian134
 - 👀 I’m interested in the world of coding and all the different languages that help develop software
-- 🌱 I’m currently learning Java as wel HTML/CCC/Javascript
+- 🌱 I’m currently learning Java as well as HTML/CCC/Javascript
 - 💞️ I’m looking to collaborate on anything that's available
 - 📫 How to reach me ...
 
